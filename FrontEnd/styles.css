@@ -1,13 +1,16 @@
 body {
-    background-image: url("backgrundtop.png");
+    background-image: url("images/backgrundtop.png");
+    background-repeat: no-repeat;
     background-size: cover;
+    margin:0;
+    display: inline-block;
 }
 
 h2.dl-button {
     border: 2px solid green;
     color:aqua;
-    position: static;
+    position:absolute;
     border-radius: 5px;
-    margin: 25% 85% 0 5%;
-    padding: 1%;
+    margin: 2% 5% 2% 5%;
+    font-family: 'Readex Pro', sans-serif;
 }
