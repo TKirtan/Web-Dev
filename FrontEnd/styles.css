@@ -8,10 +8,13 @@ body {
 
 h2.dl-button {
     border: 2px solid green;
-    color:aqua;
+    color:white;
     position:absolute;
     border-radius: 5px;
     margin: 2% 5% 2% 5%;
     font-family: 'Readex Pro', sans-serif;
+    padding:1%;
+    background-color: #2ea44f;
+    outline: thin inset #77D970;
 }
 
