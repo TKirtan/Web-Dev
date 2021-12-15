@@ -16,5 +16,8 @@ h2.dl-button {
     padding:1%;
     background-color: #2ea44f;
     outline: thin inset #77D970;
+    outline-offset: 1px;
+    text-align: center;
+    
 }
 
