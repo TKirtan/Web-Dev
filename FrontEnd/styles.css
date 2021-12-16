@@ -19,11 +19,13 @@ h2.dl-button {
     outline: thin inset #77D970;
     outline-offset: 1px;
     text-align: center;
-    
+
 }
 
 h2.dl-button:hover  {
+    color: royalblue;
     background-color: lightcoral;
     outline: medium outset #e94491;
     border-color: pink;
+    text-shadow: 2px 2px 5px red;
 }
