@@ -6,6 +6,7 @@ body {
     display: inline-block;
 }
 
+/* Download Button */
 h2.dl-button {
     border: 2px solid green;
     color:white;
@@ -24,6 +25,5 @@ h2.dl-button {
 h2.dl-button:hover  {
     background-color: lightcoral;
     outline: medium outset #e94491;
-    border: 2px solid pink;
-
+    border-color: pink;
 }
