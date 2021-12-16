@@ -21,3 +21,9 @@ h2.dl-button {
     
 }
 
+h2.dl-button:hover  {
+    background-color: lightcoral;
+    outline: medium outset #e94491;
+    border: 2px solid pink;
+
+}
